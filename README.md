@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manish Pandey
 - 👀 I’m interested in ML/DL, Quantum Computing, and Competitive Programing. 
 - 🌱 I’m currently learning ~~Django~~ DSA.
-- 💞️ 
+- 💞️ In Development.
 - 📫 Portfolio in development
 
 <!---
