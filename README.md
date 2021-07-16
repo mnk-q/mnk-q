@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manish Pandey
-- 👀 I’m interested in Web Dev, ML, among other things
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 👀 I’m interested in ML/DL, Quantum Computing, and Competitive Programing. 
+- 🌱 I’m currently learning ~~Django~~ DSA.
+- 💞️ 
 - 📫 Portfolio in development
 
 <!---
